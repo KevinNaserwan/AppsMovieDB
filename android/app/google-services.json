@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450252746462",
+    "project_id": "movietime-ff4f1",
+    "storage_bucket": "movietime-ff4f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450252746462:android:a40993918ad0683fad9c4f",
+        "android_client_info": {
+          "package_name": "com.example.movietime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWS3IVvUwZedVGp6CJsgvsmwDB8HStzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
